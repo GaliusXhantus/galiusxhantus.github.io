@@ -1,0 +1,35 @@
+html{
+	background-image: url('imagens/plano-b.jpg');
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #B3B3C1;
+  padding: 20px 20px 420px 0px;
+}
+h1{
+	margin: 0;
+	padding: 0px 20px;
+	text-shadow: 4px 4px 6px black;
+}
+h2{
+	padding: 0 20px;
+}
+p{
+	padding: 0 15px;
+}
+a:visited{
+	color: aquamarine;
+}
+img, video{
+	display: block;
+	margin: 0 auto;
+}
+object{
+	display: block;
+	margin: 0 auto;
+	padding: 20px 0px;
+}
+footer{
+	padding:20px 10px;
+}
